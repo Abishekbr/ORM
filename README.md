@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-# Date:18-10-2024
+# Date: 20/4/25
 # AIM
 To develop a Django application to store and retrieve data from a bank loan database using Object Relational Mapping(ORM).
 
@@ -54,9 +54,11 @@ class LoanAdmin(admin.ModelAdmin):
 admin.site.register(Loan, LoanAdmin)
 ```
 # OUTPUT
-![Screenshot (30)](https://github.com/user-attachments/assets/32f82332-c7b5-4431-aa01-e8ca8c0564c1)
-![Screenshot (31)](https://github.com/user-attachments/assets/f3b7c0c5-9bd5-4ccc-a0f8-ef0d26357a1f)
-![Screenshot (32)](https://github.com/user-attachments/assets/49c6d1b8-6df1-4b9f-8ca7-b9dae08e79d8)
+![WhatsApp Image 2025-04-23 at 6 01 43 PM](https://github.com/user-attachments/assets/0000421d-1d0c-4167-9d79-6a01f3b8db0d)
+![WhatsApp Image 2025-04-23 at 6 02 05 PM](https://github.com/user-attachments/assets/bbe73708-e199-41d9-8a6c-237816e8fcf4)
+![WhatsApp Image 2025-04-23 at 6 02 30 PM](https://github.com/user-attachments/assets/72fc49f6-12f6-4220-b285-5a5e171c8d69)
+
+
 
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
